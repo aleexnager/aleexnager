@@ -10,7 +10,6 @@ Clone | For a remote server | git clone <repository-url>
 Remote | Connect your local repo to a remote one in order to be able to push to it | git remote add origin <server>
 Remote | List all currently configured remote repos | git remote -v
 Add | Add one or more files | git add <filename1> <filename2>
-Add | Add all files in your current directory | git add *
 Add | Add all files in your current directory | git add .
 Commit | Commit changes to head (not yet to repo) | git commit -m "Commit message"
 Commit | Commit any files you've added with ***git add***, and also commit any files you've change since then | git commit -a
