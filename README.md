@@ -6,6 +6,7 @@
 
 ## Coding Skills
 * Java and C as a preference, for algorithms, data structures and OS.
+* Bash and SQL, for Linux based systems
 * MatLab, R for pure math problems.
 
 ## Github stats
