@@ -3,7 +3,8 @@ These are some of the basic commands you can use with Git in order to get starte
 
 Git task | Notes | Git commands
 | :---: | :---: | :---: 
-Config | Configure your name and email to be used with your commits | git config --global user.name "Alex Náger"  git config --global user.email alex@example.com
+Config | Configure your name and email to be used with your commits | git config --global user.name "Alex Náger"  
+git config --global user.email alex@example.com
 Init | Create new local repo in order to work with git | git init
 Clone | Create a working copy of a local repo | git clone /path/to/repo
 Clone | For a remote server | git clone <repository-url>
