@@ -6,8 +6,8 @@
 
 ## Coding Skills
 * Java and C as a preference, for algorithms, data structures and OS.
-* Bash and SQL, for Linux based systems
-* MatLab, R for pure math problems.
+* Bash and SQL for Linux based systems
+* MatLab and R for pure math problems.
 
 ## Github stats
 ![Alex's Github Stats](https://github-readme-stats.vercel.app/api?username=aleexnager&bg_color=30,cc2b5e,753a88&title_color=fff&text_color=fff)
