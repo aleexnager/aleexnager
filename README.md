@@ -3,7 +3,7 @@ Computer Science Engineer Student at UPM (Univerdidad Politecnica de Madrid)<br>
 
 
 ## Socials:
-Check out my web here: [![🌐]](www.anager.live)  
+Check out my web here: [🌐](https://www.anager.live)  
 Or my LinkedIn here:[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-n%C3%A1ger-95b1791b7)  
 
 ## Tech Stack:
