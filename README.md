@@ -1,5 +1,5 @@
 # About Me:
-Computer Science Engineer graduated from UPM (Univerdidad Politecnica de Madrid)<br><br>Worked as a Full Stack Software Engineer with .NET technology.<br><br>Currently working as Vulnerability and Risk Analyst for PwC.
+Computer Science Engineer graduated from UPM (Univerdidad Politecnica de Madrid)<br><br>Worked as a Full Stack Software Engineer with .NET technology.<br><br>Currently working as a Cybersecurity Risk Analyst for PwC.
 
 
 ## Socials:
